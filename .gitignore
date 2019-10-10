@@ -1,0 +1,10 @@
+*.log
+/.htaccess
+wp-config.php
+wp-content/*
+!wp-content/themes/full-frame/
+!wp-content/plugins/
+!wp-content/uploads/
+sitemap.xml
+sitemap.xml
+sitemap.xml.gz
