@@ -8,3 +8,4 @@ wp-content/*
 sitemap.xml
 sitemap.xml
 sitemap.xml.gz
+node_modules
